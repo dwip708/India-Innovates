@@ -1,2 +1,3 @@
 # India-Innovates
 Accident detection and prevention 
+Sensors used in car detect rapid decelaration, rapid temperature changes and pressure changes to detect an accident. Data is uploaded to ThingsSpeak server, from where the local authorities, ambulance, police and emergency contacts of the registered user are notified. In case the accident damages the network connectivity, radio signals are radiated by the victim car's device, which are caught by nearby vehicles with our device. Hence , data is uploaded through this car to the server. Once data is uploaded to server, all nearby vechicles are notified about the accident so that they can change their route to avoid a traffic jam.
